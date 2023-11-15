@@ -1,6 +1,6 @@
 # AOD Clone
 ### ⚠️ This app only works on iPhone 12 Pro. The UI may not match when running on different models.
-### ⚠️ Not suitable for daily use.
+### ⚠️ NOT suitable for daily use. use it as just for fun.
 AOD for older iPhones. Poorly made with Unity.
 
 ## Features
